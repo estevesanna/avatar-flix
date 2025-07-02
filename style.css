@@ -1,9 +1,12 @@
 body {
     color:darkblue;
    background: skyblue;
+   margin: 0px;
 }
 
 
 header{
-    border: solid 2px darkblue;
+    border-bottom: solid 2px darkblue;
+    padding: 20px;
+    font-size: 32px;
 }
